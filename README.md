@@ -36,14 +36,5 @@ I love building responsive web applications, interactive 3D experiences, and mod
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nebiyusibov5&show_icons=true&theme=radial&hide_border=true" alt="Nəbi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebiyusibov5&layout=compact&theme=radial&hide_border=true" alt="Most Used Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nebi-yusibov)
