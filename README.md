@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nəbi Yusibov
+# Hi 👋, I'm Nabi Yusibov
 
 A passionate **Frontend Developer** based in Baku, Azerbaijan 🇦🇿.  
 I love building responsive web applications, interactive 3D experiences, and modern software solutions.
@@ -23,7 +23,6 @@ I love building responsive web applications, interactive 3D experiences, and mod
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 **Backend & Database:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -35,7 +34,6 @@ I love building responsive web applications, interactive 3D experiences, and mod
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
